@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is Zakir Bangash A MERN Stack Developer
+          Wow Mashalllah that's Great
         </a>
       </header>
     </div>
